@@ -1,4 +1,5 @@
 # Workshop_Task_6
+https://92386682.github.io/Workshop_Task_6/
 ##Process
 Beginning by rereading p5s referencing for text functions, I loaded up some basic font/text alignment fixes for the canvas setup,  and essentially followed the workshop steps to recreate the tutors own setup, up until RiTa integration.
 ![56](https://github.com/user-attachments/assets/38e829f7-664b-4a0e-b223-2e412fbf7636)
@@ -14,6 +15,8 @@ Succeeding this, I then spent some time creating the for() loop to create a long
       letter = table.getString(randomiser, 0);
       alphabet.push(letter);
     ``
+
+    
 At this point, I took a closer look at RiTa’s documentation, and realised that ‘RiTa.randomWord()’ did this entire process, and most likely did it better. 
 ![56](https://github.com/user-attachments/assets/ab8f2cf0-4302-4155-a73d-852201f0bfbf)
 ![62](https://github.com/user-attachments/assets/3d5e4835-ae53-4ae1-a3f4-db52e4d2484f)
